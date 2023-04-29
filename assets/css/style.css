@@ -12,9 +12,16 @@ h3 {
 display: inline;
 list-style-type: none;
 font-size: 20px; 
+text-align: center;
 }
 
+h1{
+  text-align: center;
+}
 
+h2{
+  text-align: center;
+}
 title {
   color: darkblue;
   background-color: peachpuff;
@@ -34,7 +41,7 @@ img {
   border: 10px solid orange;
   padding: 10px;
   position: relative;
-  left: 400px;
+  left: 50%;
 }
 
 #email {
